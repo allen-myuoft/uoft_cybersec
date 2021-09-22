@@ -115,7 +115,7 @@ Only the jumpbox machine can accept connections from the Internet. Access to thi
 
 
 Machines within the network can only be accessed by jumpbox.
-![jumpbox_control.png](Images/jumpbox_control.png)
+![jumpbox_access.png](Images/jumpbox_access.png)
 
 A summary of the access policies in place can be found in the table below.
 
